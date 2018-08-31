@@ -7,7 +7,7 @@ draft = false
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
 
-tags = ["Tools"]
+tags = ["Tools", "hide"]
 summary = "Web annotations made by the community."
 +++
 

@@ -6,7 +6,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://colig.github.io/laumn/"
+baseurl = "https://colig.github.io/laumn"
 
 # Title of your site
 title = "CI 5371"
@@ -282,7 +282,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Annotations"
-  url = "/post/annotations/"
+  url = "./post/annotations/"
   weight = 4
 
 # Link to a PDF of your resume/CV from the menu.

@@ -1,40 +1,28 @@
 +++
-# About/Biography widget.
-widget = "about"
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "custom"
 active = true
 date = 2016-04-20T00:00:00
+
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
+title = "General Information"
+subtitle = ""
 
 # Order that this section will appear in.
 weight = 5
 
-# List your academic interests.
-[interests]
-  interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
-  ]
-
-# List your qualifications (such as academic degrees).
-[[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
-
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
-# Biography
+This is the course website of **CI 5371 - Learning Analytics: Theory and Practice** offered in Fall '18 at the University of Minnesota. This course fully online. All content published on this website open to the public. 
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+**Instructor**: [Bodong Chen, Assistant Professor](http://meefen.github.io/) in learning technologies
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+### Important Links
+
+- [Syllabus](http://bit.ly/lamn-syl) (public)
+- [Slack community](https://la-mn.slack.com/) (invitation only)
+- [Hypothes.is group](https://hypothes.is/groups/NzWxr3DX/laumn) (invitation only)
+- [Hypothes.is public annotations - tag:LAUMN](https://hypothes.is/search?q=tag%3ALAUMN) (public)
+- [Twitter hashtag #LAUMN](https://twitter.com/search?q=%23LAUMN&src=typd) (public)

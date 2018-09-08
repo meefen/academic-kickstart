@@ -15,7 +15,7 @@ weight = 5
 
 +++
 
-This is the course website of **CI 5371 - Learning Analytics: Theory and Practice** offered in Fall '18 at the University of Minnesota. This course is fully online. All content published on this website open to the public. 
+This is the course website of **CI 5371 - Learning Analytics: Theory and Practice** offered in Fall '18 at the University of Minnesota. This course is fully online. All content published on this website is *open* to the public. 
 
 **Instructor**: [Bodong Chen, Assistant Professor](http://meefen.github.io/) in [Learning Technologies](http://www.cehd.umn.edu/ci/academics/LearningTechnologies/)
 

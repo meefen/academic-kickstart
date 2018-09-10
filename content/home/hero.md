@@ -25,4 +25,4 @@ weight = 3
 +++
 
 This course provides a general survey of learning analytics,
-emphasizing its application in various educational contexts :rocket:
+emphasizing its applications in various educational contexts :rocket:

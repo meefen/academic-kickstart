@@ -1,7 +1,7 @@
 +++
 title = "Week 2: Learning Analytics: A Brief Overview"
 
-date = 2018-09-11T00:00:00
+date = 2018-09-10T00:00:00
 lastmod = 2018-09-11T00:00:00
 draft = false
 
@@ -56,7 +56,7 @@ After reading and discussing the [George Siemens](https://en.wikipedia.org/wiki/
 This week, we will get a chance to take a closer look at this field by exploring more cases/examples and posing more questions. What problems do learning analytics seek to address? In which educational settings? At which levels of an education system? Because this field is truly inter- and trans-disciplinary, I expect us to enter this field from our unique backgrounds and contribute to the field with different perspectives. 
 
 - Buckingham Shum, S. (2012). [UNESCO Policy Brief: Learning Analytics](https://iite.unesco.org/pics/publications/en/files/3214711.pdf). UNESCO Institute for Information Technologies in Education. 
-- Choose one from below (*Note: #1 is open-access, and #2 is accessible to UMN colleagues*):
+- **Choose one from below** (*Note: #1 is open-access, and #2 is accessible to UMN colleagues*):
     1. Bienkowski, M., Feng, M., & Means, B. (2012). [Enhancing Teaching and Learning Through Educational Data Mining and Learning Analytics: An issue brief](https://tech.ed.gov/wp-content/uploads/2014/03/edm-la-brief.pdf) **(pp. 1-35)**. U.S. Department of Education Office of Educational Technology.
     2. Krumm, A., Means, B., & Bienkowski, M. (2018). Learning Analytics Goes to School: A Collaborative Approach to Improving Education, **[Chapter 2](https://drive.google.com/open?id=1LB5J1UytIV2yOq47xKFrnneTJ7YCMJQV)**. Routledge.  (*Note: This reading can only be annotated offline. Check [this Youtube video](https://www.youtube.com/watch?v=YZW6L-0qkwI) to learn how.*)
 
@@ -72,6 +72,13 @@ For open participants, please tweet a blog post (or a shared Google doc) using t
 
 ![Source: https://gfycat.com/gifs/detail/mistyweirdhyrax](https://thumbs.gfycat.com/MistyWeirdHyrax-size_restricted.gif)
 
+**Below are a list of example project ideas.** Please see the syllabus for more detailed guidelines. 
+
+- Applying Natural Language Processing to Investigating Language Development and Epistemic Complexity in Group Chats
+- Integrating a Teacher Dashboard in K-12: A Mixed-Methods Study of Teacher Perspectives
+- "Burn the World" Learning Analytics Design (*Note: Burn the World is a game for environmental education.*)
+- "The Bridge": An Analytics Tool to Integrate Community Knowledge on StackOverflow in RStudio
+- Developing a Deep Learning Model for the Prediction of Student Success in Introductory Physics
 
 ### Virtual Meeting
 

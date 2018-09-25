@@ -59,6 +59,12 @@ When reading each required article, **please create at least 1 annotation and re
 
 ![](https://images.pexels.com/photos/64775/pexels-photo-64775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
 
+## Meet Learning Analytics Experts
+
+**[David Williamson Shaffer](https://edpsych.education.wisc.edu/staff/williamson-shaffer-david/)**  is the Vilas Distinguished Professor of Learning Sciences at the University of Wisconsin-Madison. He is known for his work on game-based learning and [Epistemic Network Analysis](http://www.epistemicanalytics.org/). Below is a keynote speech he delivered at the 2018 Learning Analytics and Knowledge conference in Sydney, where he summarized his idea of "quantitative ethonography" and ways to tackle theory scarcity in the age of "big data."
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LjcfGSdIBAk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ## Housekeeping
 
 **Please continue to explore and articulate your Working Group project ideas.** Please consider *problems/goals*, *stakeholders*, *data sources*, *analysis*, and *action* of your group project.

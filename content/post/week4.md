@@ -28,7 +28,7 @@ Briefly speaking, there are essentially two ways theory is important for the fie
 
 ### **1. Theory Use in Learning Analytics**
 
-As a field of research and practice, it is naturally learning analytics work draws from all sorts of theories. As summarized by Wise and Shaffer (2015, p. 9):
+As a field of research and practice, learning analytics work naturally draws from all sorts of theories. As summarized by Wise and Shaffer (2015, p. 9):
 
 - Theory gives a researcher guidance about which variables to include in a model
 - Theory gives a researcher guidance about what potential confounds, subgroups, or covariates in  the data to account for
@@ -43,15 +43,15 @@ For example, *self-regulated learning* (SRL) is widely used in learning analytic
 
 ### **2. Theory Building in Learning Analytics**
 
-Even more exciting to me is the possibility of building new theories of learning and teaching based on fine-grained data analysis enabled by advanced computational methods. Learning analytics and educational data mining research could give rise to new theories of learning. For example, whether keystroke analysis can shed light on our understanding of writing processes? Whether temporal analysis can uncover "productive" patterns of collaborative discourse?
+Even more exciting to me is the possibility of building new theories of learning and teaching, based on fine-grained data analysis enabled by advanced computational methods. Learning analytics and educational data mining research could give rise to new theories. For example, whether keystroke analysis can shed light on our understanding of writing processes? Whether temporal analysis can uncover "productive" patterns of collaborative discourse?
 
-Equally valuable are theories of learning analytics usage in emerging socio-technical contexts. For example, as new learning analytics tools are put in the hands of instructors to aid their pedagogical decisions, domain theories of analytics use are created (e.g., van Leeuwen, 2015).
+Equally valuable are theories of learning analytics usage in emerging socio-technical contexts. For example, as new learning analytics tools are put in the hands of instructors to aid their pedagogical decisions, domain theories of analytics use can be created (e.g., van Leeuwen, 2015).
 
 ## Week 4 Readings
 
 This week's readings speak in particular to *theory use* in learning analytics. **Reading #1** is a guest editorial on temporal analysis of learning data, which discusses four critical issues that are applicable to all learning analytics work. **Reading #2** provides a concrete example of using a well-established learning theory (self-regulated learning in this case) in a research study. **Reading #3** (optional) is the controversial Wired article mentioned above. 
 
-1. Chen, B., Knight, S., & Wise, A. F. (2018). [Critical Issues in Designing and Implementing Temporal Analytics](https://learning-analytics.info/journals/index.php/JLA/article/view/5940). Journal of Learning Analytics, 5(1), 1–9. (**Note: Only Sections 3-4 (pp. 3-7) are required.**)
+1. Chen, B., Knight, S., & Wise, A. F. (2018). [Critical Issues in Designing and Implementing Temporal Analytics](https://drive.google.com/open?id=1Po3OTRG3Iz4N6P1NyjhNTGOtHxvgQuOJ). Journal of Learning Analytics, 5(1), 1–9. (**Note: Only Sections 3-4 (pp. 3-7) are required.** This reading can only be annotated offline. Check [this Youtube video](https://www.youtube.com/watch?v=YZW6L-0qkwI) to learn how.)
 2. Kizilcec, R. F., Pérez-Sanagustín, M., & Maldonado, J. J. (2017). [Self-regulated learning strategies predict learner behavior and goal attainment in Massive Open Online Courses](https://ac-els-cdn-com.ezp2.lib.umn.edu/S0360131516301798/1-s2.0-S0360131516301798-main.pdf?_tid=5d633a5c-21d2-4794-a6f5-96a7cf77d52e&acdnat=1537801892_bca143512353c94f241d697e8f981780). Computers & Education, 104, 18–33.
 3. **Optional**: Anderson, 2008, [The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/)
 

@@ -23,6 +23,6 @@ This is the course website of **CI 5371 - Learning Analytics: Theory and Practic
 
 - [Syllabus](http://bit.ly/lamn-syl) (public)
 - [Slack community](https://la-mn.slack.com/) (invitation only)
-- [Hypothes.is group](https://hypothes.is/groups/NzWxr3DX/laumn) (invitation only)
+- Hypothes.is private group (invitation only)
 - [Hypothes.is public annotations - tag:LAUMN](https://hypothes.is/search?q=tag%3ALAUMN) (public)
 - [Twitter hashtag #LAUMN](https://twitter.com/search?q=%23LAUMN&src=typd) (public)

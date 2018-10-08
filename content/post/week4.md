@@ -61,7 +61,11 @@ When reading each required article, **please create at least 1 annotation and re
 
 ## Meet Learning Analytics Experts
 
-**[David Williamson Shaffer](https://edpsych.education.wisc.edu/staff/williamson-shaffer-david/)**  is the Vilas Distinguished Professor of Learning Sciences at the University of Wisconsin-Madison. He is known for his work on game-based learning and [Epistemic Network Analysis](http://www.epistemicanalytics.org/). Below is a keynote speech he delivered at the 2018 Learning Analytics and Knowledge conference in Sydney, where he summarized his idea of "quantitative ethonography" and ways to tackle theory scarcity in the age of "big data."
+**[Dr. Alyssa Wise](https://steinhardt.nyu.edu/faculty/Alyssa_Wise)** is Associate Professor of Learning Sciences and Educational Technology and the Director of the [Learning Analytics Research Network](https://steinhardt.nyu.edu/learn/) at NYU. She is an Editor in Chief of the *Journal of Learning Analytics* and an Associate Editor of the *Journal of the Learning Sciences*. According to her bio, "Dr. Wise's research is situated at the intersection of the learning sciences and educational data science, focusing on the design of learning analytics systems that are theoretically grounded, computationally robust, and pedagogically useful for informing teaching and learning." Among many wise things shared by Dr. Wise, below is a recent video clip of her talking about what we need to be successful in the field of learning analytics.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NZeRxSC0ABs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+**[Dr. David Williamson Shaffer](https://edpsych.education.wisc.edu/staff/williamson-shaffer-david/)**  is the Vilas Distinguished Professor of Learning Sciences at the University of Wisconsin-Madison. He is known for his work on game-based learning and [Epistemic Network Analysis](http://www.epistemicanalytics.org/). Below is a keynote speech he delivered at the 2018 Learning Analytics and Knowledge conference in Sydney, where he summarized his idea of "quantitative ethonography" and ways to tackle theory scarcity in the age of "big data."
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/LjcfGSdIBAk?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 

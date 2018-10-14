@@ -30,7 +30,7 @@ We are diving into EDM this week by exploring its connections with LA and playin
 ## Week 6 Readings
 
 
-1. Baker, R. S., & Inventado, P. S. (2014). [Educational Data Mining and Learning Analytics](https://link.springer.com/chapter/10.1007%2F978-1-4614-3305-7_4). In J. A. Larusson & B. White (Eds.), Learning Analytics: From Research to Practice (pp. 61–75). New York, NY: Springer New York. 
+1. Baker, R. S., & Inventado, P. S. (2014). [Educational Data Mining and Learning Analytics](https://link-springer-com.ezp1.lib.umn.edu/chapter/10.1007%2F978-1-4614-3305-7_4). In J. A. Larusson & B. White (Eds.), Learning Analytics: From Research to Practice (pp. 61–75). New York, NY: Springer New York. 
 2. Slater, S., Joksimović, S., Kovanovic, V., Baker, R. S., & Gasevic, D. (2017). [Tools for Educational Data Mining: A Review](http://journals.sagepub.com/doi/10.3102/1076998616666808). Journal of Educational and Behavioral Statistics, 42(1), 85–106. 
 
 To make *some of* your annotations more useful for FROG activities, you can consider the following when making annotations this week:

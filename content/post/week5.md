@@ -12,7 +12,7 @@ tags = ["Theory"]
 summary = "Learning analytics is like an iceberg, with a myriad of assumptions hidden under the water."
 
 [header]
-image = "https://cdn.pixabay.com/photo/2018/03/29/18/51/iceberg-3273216_1280.png"
+image = "../img/iceberg-3273216_1280.png"
 caption = "Image credit: [**pixabay**](https://pixabay.com/en/iceberg-above-water-white-cold-3273216/)"
 +++
 

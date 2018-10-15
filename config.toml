@@ -272,7 +272,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Pages"
-  url = "#posts"
+  url = "./post/"
   weight = 2
 
 [[menu.main]]

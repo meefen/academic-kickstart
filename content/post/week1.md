@@ -43,7 +43,7 @@ An online course does not need to be about watching videos and answering quizzes
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9RJZMSsH7-g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-**Hypothes.is**. You should have received a link that invites you to join [our Hypothes.is group](https://hypothes.is/groups/NzWxr3DX/laumn). Hypothes.is is a web annotation tool that enables us to discuss readings in a contextual manner. When annotating, please make sure our group name (**LAUMN**) is properly selected. See [this page](https://web.hypothes.is/help/quick-start-guide/) to get started, and [this page](https://web.hypothes.is/help/annotating-with-groups/) to learn about annotating together as a group.
+**Hypothes.is**. If you're a formal participant, you should have received a link that invites you to join our Hypothes.is group. Hypothes.is is a web annotation tool that enables us to discuss readings in a contextual manner. When annotating, please make sure our group name (**LAUMN**) is properly selected. See [this page](https://web.hypothes.is/help/quick-start-guide/) to get started, and [this page](https://web.hypothes.is/help/annotating-with-groups/) to learn about annotating together as a group.
 
 ![](https://d242fdlp0qlcia.cloudfront.net/uploads/2018/03/21135305/scopeselector-groupname.png)
 
@@ -62,7 +62,7 @@ If you have any feedback on the design, I'd love to hear your thoughts.
 ### Readings
 
 1. Course syllabus
-2. [Siemens, G. (2013). Learning analytics: The emergence of a discipline. The American Behavioral Scientist, 57(10), 1380–1400.](http://journals.sagepub.com.ezp3.lib.umn.edu/doi/pdf/10.1177/0002764213498851)
+2. [Siemens, G. (2013). Learning analytics: The emergence of a discipline. The American Behavioral Scientist, 57(10), 1380–1400.](http://journals.sagepub.com.ezp3.lib.umn.edu/doi/pdf/10.1177/0002764213498851)  ([Downloadable PDF](https://iu.instructure.com/files/56153619/download?download_frd=1) for Open Participants.)
 
 When reading Siemens (2013), **please create at least 1 annotation and reply to 2 annotations made by peers**. Not sure what/how to annotate, consider sentence starters like: `"I'm intrigued by..."`, `"I'm surprised by..."`, `"I need to understand..."`, `"Additional resource..."`, etc.
 

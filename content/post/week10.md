@@ -29,10 +29,10 @@ By the end of this week we hope that you will be able to better understand and e
 
 ### 2. Readings
 
-1. **Required**: Brooks and Thompson. Handbook of Learning Technologies Chp 5 [“ Predictive Modelling in Teaching and Learning:"](https://solaresearch.org/wp-content/uploads/2017/05/chapter5.pdf)
-2. Choose one additional reading:
-  - The promise and peril of predictive analytics in higher education:[MANUELA EKOWO AND IRIS PALMER, Oct 2016](https://na-production.s3.amazonaws.com/documents/Promise-and-Peril_4.pdf)
-  - Predictive Modeling of Student Behavior Using Granular Large-Scale Action Data[Steven Tang, Joshua C. Peterson & Zachary A. Pardos, 2017](https://solaresearch.org/hla-17/hla17-chapter19/)
+1. **Required**: Brooks and Thompson. Handbook of Learning Technologies Chp 5. [“ Predictive Modelling in Teaching and Learning"](https://solaresearch.org/wp-content/uploads/2017/05/chapter5.pdf)
+2. **Choose one additional reading**:
+  - Manuel Ekowo and Iris Palmer, Oct 2016. ["The promise and peril of predictive analytics in higher education"](https://na-production.s3.amazonaws.com/documents/Promise-and-Peril_4.pdf)
+  - Steven Tang, Joshua C. Peterson & Zachary A. Pardos, 2017.["Predictive Modeling of Student Behavior Using Granular Large-Scale Action Data"](https://solaresearch.org/hla-17/hla17-chapter19/)
 
 Annotate as usual with “good points, useful points, muddy points.” We won’t be using FROG this week, but you can use these tags to keep track of points relevant for your WG.
 
@@ -49,7 +49,7 @@ Annotate as usual with “good points, useful points, muddy points.” We won’
 These might be helpful to you, they were to me!
 
 - 2min video [“6 steps of predictive modeling with machine learning"](https://www.youtube.com/watch?v=J2xSIIK2OzQ)
-- CrashCourse [Correlation≠Causation](https://www.youtube.com/watch?v=GtV-VYdNt_g)
+- CrashCourse ["Correlation≠Causation"](https://www.youtube.com/watch?v=GtV-VYdNt_g)
 
 ---
 
@@ -57,22 +57,22 @@ These might be helpful to you, they were to me!
 
 ### 4. Model building tools and data sets.
 
-Weka is described as a ["machine learning workbench"](https://machinelearningmastery.com/what-is-the-weka-machine-learning-workbench/)it has a straightforward GUI and is open source. This tool runs on PC, Mac & Linux. I am running on a Mac but does require java, so if you run into install issues that's most likely the culprit. Reach out on slack if you do.
+Weka is described as a ["machine learning workbench"](https://machinelearningmastery.com/what-is-the-weka-machine-learning-workbench/) it has a straightforward GUI and is open source. This tool runs on PC, Mac & Linux. I am running on a Mac but does require java, so if you run into install issues that's most likely the culprit. Reach out on slack if you do.
 
 - Step 1 Download and install [Weka](https://www.cs.waikato.ac.nz/ml/weka/downloading.html)
 - Step 2 Watch [this video](https://tinyurl.com/y77y7ltj) and follow along on how to load data sets, select features, classify, compare results, evaluate and test a model.
-- Challenge Activity! Format and create a model for your own data set [Use this blog post](https://edumine.wordpress.com/2014/08/23/fix-arff-file-not-recognised-or-unable-to-load-data-in-weka/) to learn how to create a WEKA formatted file to use with the program. Rank the features sets to determine which attributes are useful.
+- Optional Challenge Activity! Format and create a model for your own data set [Use this blog post](https://edumine.wordpress.com/2014/08/23/fix-arff-file-not-recognised-or-unable-to-load-data-in-weka/) to learn how to create a WEKA formatted file to use with the program. Rank the features sets to determine which attributes are useful.
 
 ### 5. Prep for Zoom meeting. Guided Practice.
 
 Neal has created an analysis tool in google sheets and supplied it with data. Your task is two identify two models using the tool and data to share with your small group.
 
 - Step 1 [Make a copy](https://docs.google.com/spreadsheets/d/1i4bjFMnjLH21-Dv9-g0rZJflvaglQ5LmjIcWzBpIcho/copy) of the spreadsheet in google docs.
-- Step 2 [Watch Neal](https://www.youtube.com/embed/OVsKev9NtVs) Take you through the steps of making predictions using the tool.
+- Step 2 [Watch Neal](https://www.youtube.com/embed/OVsKev9NtVs) take you through the steps of making predictions using the tool.
 
-  >This is survey data retrieved from students in CI5301 “Foundations of Computer Applications for Business and Education”. 
+  >This is survey data retrieved from students in CI5301 “Foundations of Computer Applications for Business and Education.” 
   >Students responded to questions at the beginning and at the end of the semester to measure their change in digital literacies (website building skills, information management,  
-  >screencasting, etc.). 
+  >screencasting, etc...) 
 
 #### More Context about the Data
 Students answered the following questions on a 1-5 Likert-type scale. 1 = very low skill, 5 = very high skill. The data presented here is the difference between their self ratings at the end of the semester and their self ratings at the beginning of the semester. That is, these numbers represent their “growth” or “change” in ratings over the course of the semester.

@@ -29,7 +29,7 @@ By the end of this week we hope that you will be able to better understand and e
 
 ### 2. Readings
 
-1. **Required**: Brooks and Thompson. Handbook of Learning Technologies Chp 5 [“ Predictive Modelling in Teaching and Learning:"](https://docs.google.com/forms/d/e/1FAIpQLScIsWz2HdqM81N46mfZVMHjWeNmZY_rhfHGSdeeUw8FriUx_Q/viewform?usp=sf_link)
+1. **Required**: Brooks and Thompson. Handbook of Learning Technologies Chp 5 [“ Predictive Modelling in Teaching and Learning:"](https://solaresearch.org/wp-content/uploads/2017/05/chapter5.pdf)
 2. Choose one additional reading:
   - The promise and peril of predictive analytics in higher education:[MANUELA EKOWO AND IRIS PALMER, Oct 2016](https://na-production.s3.amazonaws.com/documents/Promise-and-Peril_4.pdf)
   - Predictive Modeling of Student Behavior Using Granular Large-Scale Action Data[Steven Tang, Joshua C. Peterson & Zachary A. Pardos, 2017](https://solaresearch.org/hla-17/hla17-chapter19/)
@@ -108,5 +108,3 @@ Purposes?”
 ### If you have any issues or questions, please reach out to your colleagues on Slack.
 
 ![](https://media.giphy.com/media/4TtTVTmBoXp8txRU0C/giphy.gif)
-
-

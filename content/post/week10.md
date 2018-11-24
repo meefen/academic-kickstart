@@ -1,5 +1,5 @@
 +++
-title = "Predictive Modeling"
+title = "Week 10: Predictive Modeling (SIG 2)"
 
 date = 2018-10-28T00:00:00
 lastmod = 2018-10-29T00:00:00

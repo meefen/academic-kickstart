@@ -1,5 +1,5 @@
 +++
-title = "Week 9: Social Network Analysis"
+title = "Week 9: Social Network Analysis (SIG 1)"
 
 date = 2018-10-28T00:00:00
 lastmod = 2018-10-29T00:00:00

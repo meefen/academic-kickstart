@@ -3,7 +3,7 @@ title = "Week 4: Theory and Learning Analytics"
 
 date = 2018-09-24T00:00:00
 lastmod = 2018-09-24T00:00:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Bodong Chen"]

@@ -3,7 +3,7 @@ title = "Week 10: Predictive Modeling (SIG 2)"
 
 date = 2018-10-28T00:00:00
 lastmod = 2018-10-29T00:00:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Neal Fredrickson & Matt Vernon"]

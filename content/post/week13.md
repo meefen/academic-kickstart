@@ -2,7 +2,7 @@
 title = "Week 13: Visual Learning Analytics (SIG5)"
 
 date = 2018-11-25T00:00:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. '["Bob Smith", "David Jones"]'.
 authors = ["Jake Law", "Robert Kreml", "Taylor Gilard"]
@@ -11,7 +11,7 @@ tags = ["Visual Analytics"]
 summary = "SIG 5 on Visual Learning Analytics."
 
 [header]
-image = "https://cdn.pixabay.com/photo/2016/11/23/14/37/blur-1853262_1280.jpg"
+image = "/blur-1853262_960_720.jpg"
 caption = "Image credit: [**pixabay**](https://pixabay.com/en/blur-chart-computer-data-finance-1853262/)"
 +++
 
@@ -31,7 +31,7 @@ Consider the following questions as you view the different visualizations. We wi
 ## 2. Choose one of the following readings and annotate:  
 - "[Visualizing Informal Professional Development Networks: Building a Case for Learning Analytics in the Workplace](https://drive.google.com/file/d/1gxFy652U2d1LP764ZNM2jHQHm_9-QSks/view)" (de Laat and Schreurs, 2013)
 - "[iSAT: A Visual Learning Analytics Tool for Instructors](https://telrp.springeropen.com/articles/10.1186/s41039-016-0043-3)" (Majumdar and Iyer, 2016)
-- "[Attention Please! Learning Analytics for Visualization and Recommendation](https://drive.google.com/open?id=1nQzo0wKLJN_Wa53_PCkl_PbroXJTn3DS)" (Duval, 2018)
+- "[Attention Please! Learning Analytics for Visualization and Recommendation](https://drive.google.com/open?id=1nQzo0wKLJN_Wa53_PCkl_PbroXJTn3DS)" (Duval, 2011)
 - "[Visualizing Activities for Self-reflection and Awareness](https://drive.google.com/open?id=1py6i7VebBX8Tc7K8-qAf586nkHRI0SP7)" (Govaerts et al., 2010)
   
 **Note**: We will be using the iSAT tool later.

@@ -3,7 +3,7 @@ title = "Week 8: 'Fun with Data' Hands-on"
 
 date = 2018-10-22T00:00:00
 lastmod = 2018-10-22T00:00:00
-draft = false
+draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Bodong Chen"]

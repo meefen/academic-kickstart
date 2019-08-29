@@ -282,7 +282,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Annotations"
-  url = "https://colig.github.io/laumn/post/annotations/"
+  url = "../laumn/post/annotations/"
   weight = 4
 
 # Link to a PDF of your resume/CV from the menu.

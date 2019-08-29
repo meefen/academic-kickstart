@@ -21,8 +21,9 @@ This is the course website of **CI 5371 - Learning Analytics: Theory and Practic
 
 ### Important Links
 
-- [Syllabus](http://bit.ly/lamn-syl) (public)
+- [Syllabus](https://docs.google.com/document/d/1g9Z5-V4uGmFaLvwd6vcrg6isNuyjwCwhT1DlwD5sjIQ/edit?usp=sharing) (public)
 - [Slack community](https://la-mn.slack.com/) (invitation only)
-- Hypothes.is private group (invitation only)
-- [Hypothes.is public annotations](https://hypothes.is/search?q=tag%3ALAUMN) (public)
+- [Knowledge Forum](https://kf6.us/) community (invitation only)
+- [Hypothes.is](https://hypothes.is/) private group (invitation only)
 - [Twitter hashtag #LAUMN](https://twitter.com/search?q=%23LAUMN&src=typd) (public)
+<!-- - [Hypothes.is public annotations](https://hypothes.is/search?q=tag%3ALAUMN) (public) -->

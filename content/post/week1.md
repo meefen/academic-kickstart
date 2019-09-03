@@ -51,6 +51,8 @@ First time using Slack? Watch the video below and/or read this [brief introducti
 
 **Knowledge Forum** (KF). If you're a formal participant, you should have received a link and a registration key to join our Knowledge Forum community. KF is a space for collaborative knowledge building. It's where we propose our initial (and sometimes naive) ideas and then grow them this semester. KF has a suite of analytics tools as well, so it will allows us to 'live' the capacity of learning analytics while we explore this topic. 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ebgi-NnjSak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ### Two tracks of participation
 
 This course website is openly available, allowing two tracks of participation designed for this class.

@@ -2,8 +2,8 @@
 title = "Week 1: Introduction"
 
 date = 2018-08-29T00:00:00
-lastmod = 2018-09-03T00:00:00
-draft = true
+lastmod = 2019-09-03T00:00:00
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Bodong Chen"]
@@ -16,7 +16,7 @@ image = "https://images.pexels.com/photos/185576/pexels-photo-185576.jpeg?auto=c
 caption = "Image credit: [**Pexels**](https://www.pexels.com/photo/analytics-text-185576/)"
 +++
 
-A warm welcome to **CI 5371 - Learning Analytics: Theory and Practice**! This course has been taught twice by myself at the University of Minnesota (in 2015 and 2016). This is the first time this course is offered fully online as a formal (non-special topics) course. As the instructor, I look forward to our adventure together this semester!
+A warm welcome to **CI 5371 - Learning Analytics: Theory and Practice**! I am so excited to offer this course again this fall at the University of Minnesota. As the instructor, I learn so much from the class community each year and look forward to our adventure together this semester!
 
 This week we will: 
 
@@ -29,24 +29,27 @@ This week we will:
 
 ### Syllabus
 
-First thing first, please read [**the course syllabus** (http://bit.ly/lamn-syl)](http://bit.ly/lamn-syl) in its entirety. Leave a Hypothesis annotation or send me an email when you have any questions. 
+First thing first, please read [**the course syllabus**](http://bit.ly/laumn-2019-syl) in its entirety. Leave a comment or send me an email when you have any questions. 
 
 ### Technology setup
 
 An online course does not need to be about watching videos and answering quizzes. To foster rich learning experiences, we will be using several technological tools to foster social, collaborative learning. Depending on your familiarity with these tools, there could be a learning curve. So please spend time this week to familiarize yourself with them.
 
-**Zoom**. We will host virtual meetings on Zoom. Please make sure your computer has [Zoom](https://zoom.us/) installed (see the video below). Please test your Zoom setup in advance to make sure audio and video configurations work properly. You will receive a calendar invitation with details about joining our Zoom meetings. 
+**Zoom**. We will host a number of virtual meetings on Zoom throughout the semester. Please make sure your computer has [Zoom](https://zoom.us/) installed (see the video below). Please test your Zoom setup in advance to make sure audio and video configurations work properly. You will receive a calendar invitation with details about joining our Zoom meetings. 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/vFhAEoCF7jg?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-**Slack**. You will receive a link that invites you to join [our Slack community](https://la-mn.slack.com/). Course announcements are made on Slack. All sorts of class discussion will take place there as well. First time using Slack? Watch the video below and/or read this [brief introduction to Slack](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-).
+**Slack**. You will receive a link that invites you to join [our Slack community](https://la-mn.slack.com/). Course announcements are made on Slack. All sorts of class discussion will take place there as well. You can also interact with course alums in some public channels. 
+
+First time using Slack? Watch the video below and/or read this [brief introduction to Slack](https://get.slack.help/hc/en-us/articles/115004071768-What-is-Slack-).
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9RJZMSsH7-g?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-**Hypothes.is**. If you're a formal participant, you should have received a link that invites you to join our Hypothes.is group. Hypothes.is is a web annotation tool that enables us to discuss readings in a contextual manner. When annotating, please make sure our group name (**LAUMN**) is properly selected. See [this page](https://web.hypothes.is/help/quick-start-guide/) to get started, and [this page](https://web.hypothes.is/help/annotating-with-groups/) to learn about annotating together as a group.
+**Hypothes.is**. If you're a formal participant, you should have received a link that invites you to join our Hypothes.is group. Hypothes.is is a web annotation tool that enables us to discuss readings in a contextual manner. When annotating, please make sure our group name (**LAUMN-2019**) is properly selected. See [this page](https://web.hypothes.is/help/quick-start-guide/) to get started, and [this page](https://web.hypothes.is/help/annotating-with-groups/) to learn about annotating together as a group.
 
 ![](https://d242fdlp0qlcia.cloudfront.net/uploads/2018/03/21135305/scopeselector-groupname.png)
 
+**Knowledge Forum** (KF). If you're a formal participant, you should have received a link and a registration key to join our Knowledge Forum community. KF is a space for collaborative knowledge building. It's where we propose our initial (and sometimes naive) ideas and then grow them this semester. KF has a suite of analytics tools as well, so it will allows us to 'live' the capacity of learning analytics while we explore this topic. 
 
 ### Two tracks of participation
 
@@ -70,6 +73,6 @@ When reading Siemens (2013), **please create at least 1 annotation and reply to 
 
 ### Virtual Meeting
 
-Our first virtual meeting will take place on **Monday, 09/10, 5-6:30pm** via Zoom. You will receive a Calendar invitation with details. 
+Our first virtual meeting will take place on **Monday, 09/09, 5-6:30pm** via Zoom. You will receive a Calendar invitation with details. 
 
 See you soon!

@@ -2,8 +2,8 @@
 title = "Week 2: Learning Analytics: A Brief Overview"
 
 date = 2018-09-10T00:00:00
-lastmod = 2018-09-11T00:00:00
-draft = true
+lastmod = 2019-09-10T00:00:00
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Bodong Chen"]
@@ -18,21 +18,19 @@ caption = "Image credit: [**Pexels**](https://www.pexels.com/photo/beaded-beads-
 
 Thanks for the engaged conversations in the first week of #LAUMN! 
 
-We've been engaged in such thoughtful dialogues via Hypothes.is annotations. We're trying to survive all those acronyms by maintaining [a community glossary](https://colig.github.io/laumn/post/glossary/). Also a big shout-out to **Crystal Rose-Wainstock** for her #LAUMN tweet about ethics in learning analytics (below). The breadth of expertise represented in our community is truly energizing. I hope we can continue to have deep conversations *within and beyond this community*, and to engage in learning that's *personal* to everyone of us. 
+We've been engaged in such thoughtful dialogues via Hypothes.is, Slack, and Zoom. As we try to survive all those acronyms, here is [a community glossary](https://colig.github.io/laumn/post/glossary/) you can look at and contribute to. 
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Thinking about learning analytics and the ethics of big data use in education. <a href="https://twitter.com/hashtag/laumn?src=hash&amp;ref_src=twsrc%5Etfw">#laumn</a> <a href="https://twitter.com/hashtag/ci5371?src=hash&amp;ref_src=twsrc%5Etfw">#ci5371</a> <a href="https://t.co/8wQgpH0OF5">pic.twitter.com/8wQgpH0OF5</a></p>&mdash; Crystal Rose-Wainstock (@crosewainstock) <a href="https://twitter.com/crosewainstock/status/1037466767688458240?ref_src=twsrc%5Etfw">September 5, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+What is apparent to myself is that the breadth of expertise represented in our community is truly energizing. I hope we can continue to have deep conversations *within and beyond this community*, and to engage in learning that's *personal* to everyone of us. 
 
+In the spirit of "living and exploring the capacity of learning analytics" (see the Syllabus), I want to introduce an analytics tool named [**CROWD LAAERS**](https://crowdlaaers.org/) developed by my UC-Denver colleagues **Remi Kalir** and **Francisco Perez** for the Marginal Syllabus project. This application, which just came out last year, retrieves annotations from the server and generates interesting interactive visualizations.
 
-In the spirit of "living and exploring the capacity of learning analytics," I want to introduce an analytics tool named [**CROWDLAAERS**](http://marginalsyllab.us/crowdlaaers-marginalsyllabus/) developed by my UC-Denver colleagues **Remi Kalir** and **Francisco Perez** for the Marginal Syllabus project. This application, which just came out during the summer, retrieves annotations from the server and generates interesting interactive visualizations.
+For instance, after authenticating yourself using your [Hypothes.is API token](https://hypothes.is/account/developer), you will be able to choose our group and have a bird-eye view of our annotation activities. I found the `Threads` section quite useful for discovering threads with more (or less) participation. You can click on a particular thread to filter the data. 
 
-For instance, below is an overview of our own #LAUMN annotation threads. I found it quite useful for discovering threads with more (or less) participation.
-
-![](../../img/crowdlaaers-1.png)
+![](../../img/crowdlaaers-2019.png)
 
 Another example is the calendar view that tells us when we tend to make annotations. 
 
-![](../../img/crowdlaaers-2.png)
+![](../../img/crowdlaaers-2019-2.png)
 
 It appears we were quite busy making annotations during the weekend. I believe we can do better next week -- working less during the weekend if possible ;-)
 
@@ -51,6 +49,8 @@ After reading and discussing the [George Siemens](https://en.wikipedia.org/wiki/
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KqETXdq68vY?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+(*Note*: Great questioning during Week 1 on whether the definition(s) of learning analytics have changed over the years. I encourage you to keep this question alive as we dig into more readings, interact with scholars like George on Twitter, or tweet such questions to the #LearningAnalytics hashtag.)
+
 ### Readings
 
 This week, we will get a chance to take a closer look at this field by exploring more cases/examples and posing more questions. What problems do learning analytics seek to address? In which educational settings? At which levels of an education system? Because this field is truly inter- and trans-disciplinary, I expect us to enter this field from our unique backgrounds and contribute to the field with different perspectives. 
@@ -60,17 +60,31 @@ This week, we will get a chance to take a closer look at this field by exploring
     1. Bienkowski, M., Feng, M., & Means, B. (2012). [Enhancing Teaching and Learning Through Educational Data Mining and Learning Analytics: An issue brief](https://tech.ed.gov/wp-content/uploads/2014/03/edm-la-brief.pdf) **(pp. 1-35)**. U.S. Department of Education Office of Educational Technology.
     2. Krumm, A., Means, B., & Bienkowski, M. (2018). Learning Analytics Goes to School: A Collaborative Approach to Improving Education, **[Chapter 2](https://drive.google.com/open?id=1LB5J1UytIV2yOq47xKFrnneTJ7YCMJQV)**. Routledge.  (*Note: This reading can only be annotated offline. Check [this Youtube video](https://www.youtube.com/watch?v=YZW6L-0qkwI) to learn how.*)
 
-When reading each article, **please create at least 1 annotation and reply to 2 annotations made by peers**. Let the community know when you find a case that matches perfectly with your interests, stretches your imagination of learning anlaytics, or concerns you for whatever reasons. 
+When reading each article, **please create at least 1 annotation and reply to 2 annotations made by peers**. Let the community know when you find a case that matches perfectly with your interests, stretches your imagination of learning analytics, or concerns you for whatever reasons. 
 
-**Reminder**: If you are a UMN participant, when annotating with Hypothes.is, please make sure the LAUMN group is selected.
+This week, I encourage you to **be very intentional about tags** you use in Hypothesis annotations. Several ground rules I'd like to propose to our collective tagging to help us better index our ideas:
+
+- Let's include `#` in our tags (e.g., `#question`)
+- Let's use lowercase (e.g., `#sharing`), unless the tag is a named entity (e.g., `#LMS`)
+- Let's not include spaces, but use underscore (`_`) instead (e.g., `#data_mining` instead of `#data mining`)
+
+**Reminder**: If you are a UMN participant, when annotating with Hypothes.is, please make sure the LAUMN-2019 group is selected.  If you are not sure about annotating PDFs, please refer back to tutorials in Week 1. 
 
 ### Exploring Working Group project ideas
 
-While/after reading, draft a project idea based on your interests and post it on Slack. This is an opportunity for us to learn more about our interests and form project teams. So please comment on each other's posts if you're also interested or have questions/suggestions. 
-
-For open participants, please tweet a blog post (or a shared Google doc) using the #LAUMN hashtag. 
-
 ![Source: https://gfycat.com/gifs/detail/mistyweirdhyrax](https://thumbs.gfycat.com/MistyWeirdHyrax-size_restricted.gif)
+
+While/after reading, draft a project idea based on your interests and post it on **[Knowledge Forum](https://kf6.us/login)**. At this point, it is totally okay if your project idea is more or less vague. This is an opportunity for us to learn more about our interests, receive feedback, and form project teams. 
+
+After posting your project idea, please read and build on each other's contributions if you're also interested or have questions/suggestions. 
+
+Not sure how to create or build on a Knowledge Forum contribution, watch this video tutorial (note the UI may look different as we're using a more recent version of the software): 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g-SorK8XFeQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- For open participants, please tweet a blog post (or a shared Google doc) using the #LAUMN hashtag.  -->
+
+**Pro tip**: In Knowledge Forum, you will see a searchable list of Hypothesis annotations from our community. You can either drag an annotation to form a new note, or drag an annotation into an existing note. You can use this feature if your project idea is grounded in the readings.
 
 **Below are a list of example project ideas.** Please see the syllabus for more detailed guidelines. 
 
@@ -82,6 +96,6 @@ For open participants, please tweet a blog post (or a shared Google doc) using t
 
 ### Virtual Meeting
 
-Our second virtual meeting will take place on **Monday, 09/17, 5-6:30pm** via Zoom. You will receive a Calendar invitation with details. 
+We will **NOT** meet synchronously this week. Our next virtual meeting will take place on **Monday, 09/23, 5-6:30pm** via Zoom. You will receive a Calendar invitation with details. 
 
 See you soon!

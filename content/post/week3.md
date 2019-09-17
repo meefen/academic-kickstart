@@ -2,7 +2,7 @@
 title = "Week 3: Ethics, Algorithmic Accountability, and System Integrity"
 
 date = 2018-09-16T00:00:00
-lastmod = 2018-09-16T00:00:00
+lastmod = 2019-09-16T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.

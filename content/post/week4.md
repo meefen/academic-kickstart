@@ -2,8 +2,8 @@
 title = "Week 4: Theory and Learning Analytics"
 
 date = 2018-09-24T00:00:00
-lastmod = 2018-09-24T00:00:00
-draft = true
+lastmod = 2019-09-24T00:00:00
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Bodong Chen"]
@@ -16,7 +16,7 @@ image = "https://images.pexels.com/photos/8704/pen-idea-bulb-paper.jpg?auto=comp
 caption = "Image credit: [**Pexels**](https://www.pexels.com/photo/idea-bulb-paper-sketch-8704/)"
 +++
 
-[Learning analytics are about learning](https://link.springer.com/article/10.1007%2Fs11528-014-0822-x), so *theories of learning* should not be ditched despite the data deluge that has been fueling the growth of learning analytics. Since the dawn of the field, there have been voices arguing for the importance of learning theory in the design, development, and implementation of learning analytics. In 2015, [a special section](https://learning-analytics.info/journals/index.php/JLA/issue/view/358) was published by the Journal of Learning Analytics on the relation between learning theory and learning analytics. In the guest editorial, Wise and Shaffer (2015, p. 5) write:
+[Learning analytics are about learning](https://link.springer.com/article/10.1007%2Fs11528-014-0822-x), so *theories of learning* should not be ditched despite the data deluge that has been fueling the growth of learning analytics. Since the dawn of the field, there have been voices arguing for the importance of learning theory in the design, development, and implementation of learning analytics. In 2015, [a special section](https://learning-analytics.info/journals/index.php/JLA/issue/view/358) was published by the *Journal of Learning Analytics* on the relation between learning theory and learning analytics. In the guest editorial, Wise and Shaffer (2015, p. 5) write:
 
 > It is an exhilarating and important time for conducting research on learning, with unprecedented quantities of data available. There is danger, however, in thinking that with enough data, the numbers speak for themselves. In fact, with larger amounts of data, theory plays an ever-more critical role in analysis.
 
@@ -61,7 +61,7 @@ When reading each required article, **please create at least 1 annotation and re
 
 ## Meet Learning Analytics Experts
 
-**[Dr. Alyssa Wise](https://steinhardt.nyu.edu/faculty/Alyssa_Wise)** is Associate Professor of Learning Sciences and Educational Technology and the Director of the [Learning Analytics Research Network](https://steinhardt.nyu.edu/learn/) at NYU. She is an Editor in Chief of the *Journal of Learning Analytics* and an Associate Editor of the *Journal of the Learning Sciences*. According to her bio, "Dr. Wise's research is situated at the intersection of the learning sciences and educational data science, focusing on the design of learning analytics systems that are theoretically grounded, computationally robust, and pedagogically useful for informing teaching and learning." Among many wise things shared by Dr. Wise, below is a recent video clip of her talking about what we need to be successful in the field of learning analytics.
+**[Dr. Alyssa Wise](https://steinhardt.nyu.edu/faculty/Alyssa_Wise)** is Associate Professor of Learning Sciences and Educational Technology and the Director of the [Learning Analytics Research Network](https://steinhardt.nyu.edu/learn/) at NYU. She is an Editor in Chief of the *Journal of Learning Analytics* and an Associate Editor of the *Journal of the Learning Sciences*. According to her bio, "Dr. Wise's research is situated at the intersection of the learning sciences and educational data science, focusing on the design of learning analytics systems that are theoretically grounded, computationally robust, and pedagogically useful for informing teaching and learning." Among many wise things shared by Dr. Wise, below is a recent video clip of her talking about what we need to be successful in the field of learning analytics. She is also scheduled to deliver **a webinar on Oct 16 2019** about [*Designing Learning Analytics for Humans with Humans*](https://www.eventbrite.com.au/e/designing-learning-analytics-for-humans-with-humans-prof-alyssa-wise-registration-73251177243). 
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NZeRxSC0ABs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -71,6 +71,8 @@ When reading each required article, **please create at least 1 annotation and re
 
 ## Housekeeping
 
-**Please continue to explore and articulate your Working Group project ideas.** Please consider *problems/goals*, *stakeholders*, *data sources*, *analysis*, and *action* of your group project.
+**Please continue to explore and articulate your Working Group project ideas on Knowledge Forum.** Please consider *problems/goals*, *stakeholders*, *data sources*, *analysis*, and *action* of your group project. Feel free to team up!
 
-**Please consolidate your Special Interest Group (SIG) choice.** Feel free to ask questions on Slack if you're unsure about any SIG topics.
+**Please explore and consolidate your Special Interest Group (SIG) choice.** Feel free to ask questions on Slack if you're unsure about any SIG topics.
+
+Please note that the deadline for group signup is Week 5.

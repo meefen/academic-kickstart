@@ -51,11 +51,11 @@ Equally valuable are theories of learning analytics usage in emerging socio-tech
 
 This week's readings speak in particular to *theory use* in learning analytics. **Reading #1** is a guest editorial on temporal analysis of learning data, which discusses four critical issues that are applicable to all learning analytics work. **Reading #2** provides a concrete example of using a well-established learning theory (self-regulated learning in this case) in a research study. **Reading #3** (optional) is the controversial Wired article mentioned above. 
 
-1. Chen, B., Knight, S., & Wise, A. F. (2018). [Critical Issues in Designing and Implementing Temporal Analytics](https://drive.google.com/open?id=1Po3OTRG3Iz4N6P1NyjhNTGOtHxvgQuOJ). Journal of Learning Analytics, 5(1), 1–9. (**Note: Only Sections 3-4 (pp. 3-7) are required.** This reading can only be annotated offline. Check [this Youtube video](https://www.youtube.com/watch?v=YZW6L-0qkwI) to learn how.)
-2. Kizilcec, R. F., Pérez-Sanagustín, M., & Maldonado, J. J. (2017). [Self-regulated learning strategies predict learner behavior and goal attainment in Massive Open Online Courses](https://ac-els-cdn-com.ezp2.lib.umn.edu/S0360131516301798/1-s2.0-S0360131516301798-main.pdf?_tid=5d633a5c-21d2-4794-a6f5-96a7cf77d52e&acdnat=1537801892_bca143512353c94f241d697e8f981780). Computers & Education, 104, 18–33.
+1. Chen, B., Knight, S., & Wise, A. F. (2018). [Critical Issues in Designing and Implementing Temporal Analytics](https://files.eric.ed.gov/fulltext/EJ1176035.pdf). Journal of Learning Analytics, 5(1), 1–9. (**Note: Only Sections 3-4 (pp. 3-7) are required.**)
+2. Kizilcec, R. F., Pérez-Sanagustín, M., & Maldonado, J. J. (2017). [Self-regulated learning strategies predict learner behavior and goal attainment in Massive Open Online Courses](https://www-sciencedirect-com.ezp3.lib.umn.edu/science/article/pii/S0360131516301798). Computers & Education, 104, 18–33.  (**Note: This file is accessible via the UMN Libraries.**) 
 3. **Optional**: Anderson, 2008, [The End of Theory: The Data Deluge Makes the Scientific Method Obsolete](https://www.wired.com/2008/06/pb-theory/)
 
-When reading each required article, **please create at least 1 annotation and reply to 2 annotations made by peers**. When interacting with **Reading #2**, please note how the self-regulated learning theory was applied in the study.
+When reading each required article, **please create at least 1 annotation and reply to 2 annotations made by peers**. When interacting with **Reading #2**, please note how the self-regulated learning theory was applied in the study. Please use tags intentionally in your annotations to help you retrieve ideas potentially useful for our group projects.
 
 ![](https://images.pexels.com/photos/64775/pexels-photo-64775.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
 

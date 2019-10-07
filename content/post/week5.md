@@ -34,7 +34,7 @@ I've [written about this topic as well, but in my mother tongue Chinese](https:/
 1. Knight & Buckingham Shum. (2017). [Handbook of Learning Anlaytics, Chpater 1](https://solaresearch.org/wp-content/uploads/2017/05/chapter1.pdf).
 2. Perrotta, C., & Williamson, B. (2018). [The social life of Learning Analytics: cluster analysis and the “performance” of algorithmic education](https://www.tandfonline.com/doi/full/10.1080/17439884.2016.1182927). Learning, Media and Technology, 43(1), 3–16.
 
-As we work towards forming our SIGs and WGs, it would be great to think about making *some of* your annotations more useful for your group projects. I encourage each group to come up with a group tag, e.g., `#SIG_social_network`, `WG_recommender_system`. By doing so, we will be able to index our ideas as we continue to engage with all sorts of resources. 
+As we work towards forming our SIGs and WGs, it would be great to think about making *some of* your annotations more useful for your group projects. I encourage each group to come up with a group tag, e.g., `#SIG_social_network`, `#WG_recommender_system`. By doing so, we will be able to index our ideas as we continue to engage with all sorts of resources. 
 
 As I explained in our Zoom meeting last week, you will be able to drag and drop your Hypothesis annotations into Knowledge Forum when you collaboratively work on your projects. The following animation gives you some sense about the process, but you can also drag an annotation directly into a note you're editing.
 

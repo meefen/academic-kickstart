@@ -1,9 +1,9 @@
 +++
-title = "Week 8: 'Fun with Data' Hands-on"
+title = "Week 8: 'All About Data,' Data Wrangling"
 
 date = 2018-10-22T00:00:00
-lastmod = 2018-10-22T00:00:00
-draft = true
+lastmod = 2019-10-22T00:00:00
+draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Bodong Chen"]
@@ -89,20 +89,20 @@ This list is by no means exhaustive or comprehensive. **Is there a data wranglin
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/SuccessKid.jpg/256px-SuccessKid.jpg)
 
-Yes, we can do it!  How did your journey go? Have you discovered your data-wrangling superpower? Share a blurb about your journey in the `#general` channel of Slack. 
+Yes, we can do it!  How did your journey go? Have you discovered your data-wrangling superpower? Share a blurb about your journey in the `#2019-general` channel of Slack. If you choose to blog your experience, please post a link to your blog post to the `#2019-general` Slack channel.
 
-For Open Participants, please tweet under the `#LAUMN` hashtag.
+If you encounter data wrangling challenges, please also feel free to share on Slack so that we can problem solve together. 
 
 ### 4. Discuss a data-wrangling plan with your Working Group
 
-What implications does this week's work have on your Working Group project? Discuss with your group members anywhere you like (e.g. Slack, Zoom, F2F). 
+What implications does this week's work have on your Working Group project? Discuss with your group members anywhere you like (e.g. Slack,F2F, Zoom). Please add your data-wrangling ideas to your project space on Knowledge Forum.
 
 ## Housekeeping for Formal Participation
 
-**There will be _no_ Zoom meeting on Oct 29** to provide us more 'play time'. 
+**Our next Zoom meeting is on Oct 28.**
 
-**The first SIG Session on *Social Networks* will happen on Nov 5.** Details will be posted on Oct 29.
+**The first SIG Session will happen on Nov 4.** Details will be posted on Oct 29.
 
-Enjoy digging!
+Enjoy digging and wrangling!
 
 ![](http://gif-finder.com/wp-content/uploads/2016/06/Dog-Digging.gif)

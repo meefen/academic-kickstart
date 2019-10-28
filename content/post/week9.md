@@ -77,7 +77,7 @@ Some of you have taken my SNA class (CI 8371) and please consider exploring othe
 
 #### 3.1. Data wrangling challenge
 
-First, use the [Hypothesis data exporting tool](https://jonudell.info/h/facet/) to extract some sample data from our group. Please choose the CSV format as it is the most helpful format for this activity.
+First, use the [Hypothesis data exporting tool](https://jonudell.info/h/facet/) to extract some sample data from our group. You will need to access your API token [here](https://hypothes.is/account/developer) if you wish to export data from your private groups. Please choose the `CSV` format as it is the most helpful format for this activity.
 
 Transform the exported data to a format that works for Gephi or a tool of your choice. Consult with the first reading and Gephi tutorials for information about acceptable formats. 
 

@@ -85,6 +85,8 @@ Our choices include -- but are not limited to -- the following:
 
 This list is by no means exhaustive or comprehensive. **Is there a data wrangling tool you like? Let us know by leaving a Hypothesis annotation here!**
 
+Finally, check out the [Data Carpentry](https://datacarpentry.org/lessons/#social-science-curriculum) website that offers a range of lessons and workshops that you may find useful.
+
 ### 3. Share your journey as a Data Wrangler via Slack
 
 ![](https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/SuccessKid.jpg/256px-SuccessKid.jpg)
